@@ -1,7 +1,7 @@
 # Teorema de Pitágoras - _h²=a²+b²_
 <div style="display:flex; flex-wrap:wrap">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License Shield">
-  <img src="https://img.shields.io/badge/python-v.310-blue" alt="Language and version">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat" alt="License Shield">
+  <img src="https://img.shields.io/badge/python-v.310-blue?style=flat" alt="Language and version">
 </div>
 
 ## 🎯 Propósito
