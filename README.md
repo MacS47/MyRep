@@ -1,7 +1,8 @@
 # Teorema de Pitágoras - _h²=a²+b²_
-
-<img src="https://img.shields.io/badge/license-MIT-green" alt="License Shield">
-<img src="https://img.shields.io/badge/python-v.310-blue" alt="Language and version">
+<div style="display:flex; flex-wrap:wrap">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License Shield">
+  <img src="https://img.shields.io/badge/python-v.310-blue" alt="Language and version">
+</div>
 
 ## 🎯 Propósito
 O script desenvolvido em Python tem o simples objetivo, de encontrar o valor da hipotenusa ou de um dos catetos de um triângulo retângulo.
